@@ -7,7 +7,7 @@ Skynet_logs: Union[str, int] = 123456789
 Skynet_approved_logs: Union[str, int] = 123456789
 GBAN_MSG_LOGS: Optional[Union[str, int]] = None
 BOT_TOKEN: str = "123456:shsiajskzkxhxj"
-MONGI_DB_URL = mongodb+srv://Tamilscanner:<tamilscanner>@cluster0.uzdu5.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+MONGI_DB_URL 
 
 
 
