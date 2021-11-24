@@ -4,4 +4,4 @@ motor
 heroku3
 pillow
 dnspython
-pymongo
+pymongo==3.12.1
