@@ -1,5 +1,5 @@
 {
-      "name": "Sybil_System",
+      "name": "Skynet_System",
       "description": "Gbannn System",
       "keywords": [
          "Sybil",
@@ -8,7 +8,7 @@
          "|Enforcer",
          "ok"
       ],   
-   "repository": "https://github.com/TheUnknownKanger/sybil_system",
+   "repository": "https://github.com/Mohankumarroshini/Skynet-System",
    "addons": [
       {
          "options": {
@@ -104,6 +104,6 @@
       "Telegram",
       "Tl"
    ],
-   "name": "SyBiL_SySteM",
-   "repository": "https://github.com/Inukaasith/daisy-x"
+   "name": "Skynet_SySteM",
+   "repository": "https://github.com/Mohankumarroshini/Skynet-System"
 }
