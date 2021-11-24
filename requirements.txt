@@ -5,3 +5,4 @@ heroku3
 pillow
 dnspython
 pymongo==3.12.1
+MONGI_DB_URL
