@@ -32,7 +32,7 @@ if ENV:
     Skynet = [int(x) for x in os.environ.get("Skynet", "").split()]
     INSPECTORS = [int(x) for x in os.environ.get("INSPECTORS", "").split()]
     ENFORCERS = [int(x) for x in os.environ.get("ENFORCERS", "").split()]
-    MONGO_DB_URL = os.environ.get("MONGO_DB_URL")
+    MONGO_DB_URI = os.environ.get("MONGO_DB_URI")
     Skynet_logs = int(os.environ.get("Skynet_logs"))
     Skynet_approved_logs = int(os.environ.get("Skynet_approved_logs"))
     GBAN_MSG_LOGS = int(os.environ.get("GBAN_MSG_LOGS"))
