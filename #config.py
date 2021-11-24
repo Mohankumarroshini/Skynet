@@ -1,4 +1,4 @@
-import Skynet.config as Config
+import Skynet_Scanner.config as Config
 
 
   # REQUIRED
