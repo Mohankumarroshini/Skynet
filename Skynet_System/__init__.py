@@ -59,7 +59,7 @@ ENFORCERS.extend(INSPECTORS)
 
 session = aiohttp.ClientSession()
 
-MONGO_CLIENT = motor_asyncio.AsyncIOMotorClient(MONGO_DB_URL)
+MONGO_CLIENT = motor_asyncio.AsyncIOMotorClient(MONGO_DB_URI)
 
 from .client_class import SkynetClient
 
