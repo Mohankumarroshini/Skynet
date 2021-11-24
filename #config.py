@@ -1,4 +1,4 @@
-import Skynet_System.config as Config
+import Skynet.config as Config
 
 
   # REQUIRED
